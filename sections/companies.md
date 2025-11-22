@@ -14,4 +14,5 @@ Endpoints:
 ###### Copy as cURL
 
 ```shell
+curl -X GET /hlsrapi/api/companies
 ```
