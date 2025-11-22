@@ -4,6 +4,10 @@ Welcome to the Funcard API!
 If you're looking to integrate your application with Funcard or create your own application in concert with data inside of Funcard, you're in the right place. 
 We're happy to have you!
 
+## Authentication
+
+Read the [authentication guide](./sections/authentication.md) to get started.
+
 ## API endpoints
 
 - [Cards](./sections/cards.md)
