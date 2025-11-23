@@ -8,8 +8,24 @@ Endpoints:
 
 ###### Example JSON Response
 
+<!-- START GET /hlsrapi/api/venues?limit=3 -->
 ```json
+[
+  {
+    "id": 36135,
+    "name": "Test Venue"
+  },
+  {
+    "id": 36134,
+    "name": "Test Venue"
+  },
+  {
+    "id": 36133,
+    "name": "Test Venue"
+  }
+]
 ```
+<!-- END -->
 
 ###### Copy as cURL
 
