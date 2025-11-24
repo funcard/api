@@ -8,6 +8,14 @@ We're happy to have you!
 
 Read the [authentication guide](./sections/authentication.md) to get started.
 
+## Pagination
+
+TODO
+
+## Rate limits
+
+TODO
+
 ## API endpoints
 
 - [Cards](./sections/cards.md)
@@ -26,3 +34,4 @@ Read the [authentication guide](./sections/authentication.md) to get started.
 
 ## Getting help
 
+TODO
